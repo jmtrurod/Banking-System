@@ -20,8 +20,8 @@ insert into role (role, user_id) values
 ```
 4. Go to http://localhost:8080/swagger-ui.html#/ to see the Swagger on the browser
 
-![swagger](https://github.com/jmtrurod/Midterm-Project---Bank-System/blob/master/img/swagger_banking.PNG)
-![swagger2](https://github.com/jmtrurod/Midterm-Project---Bank-System/blob/master/img/swagger_banking_2.PNG)
+![swagger](https://github.com/jmtrurod/Banking-System/blob/master/img/swagger_banking.PNG)
+![swagger2](https://github.com/jmtrurod/Banking-System/blob/master/img/swagger_banking_2.PNG)
 
 ## API Documentation
 ### General Controller
