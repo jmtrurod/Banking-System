@@ -141,5 +141,5 @@ A Third Party must be logged in. Third Party must provide its hashkey in the url
 - MongoDB to save logs in the api
 
 ## Postman Collection
-The following link provides a Postman collection so testing this API will be faster for the user:
+The following url provides a Postman collection so testing this API will be faster for the user:
 https://www.getpostman.com/collections/d9259f9872503e84b7d3
